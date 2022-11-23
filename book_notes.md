@@ -1,0 +1,1 @@
+- [[This books adopts the view that the best way to solve such problems is to use the tools of probability theory. Probability theory can be applied to any problem involving uncertainty.]](./books/Machine-Learning:A-Probabilistic-Perspective.md)

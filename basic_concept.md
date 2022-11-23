@@ -1,0 +1,2 @@
+- Machine Learning A Probabilistic Perspective (Kevin P. Murphy)
+- Hyperparameter: Parameters that are fixed(don't change) during the training process.
