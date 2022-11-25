@@ -1,0 +1,6 @@
+- [HUNG-YI LEE, National Taiwan University](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+- [Hsuan-Tien Lin, National Taiwan University](https://www.csie.ntu.edu.tw/~htlin/)
+- [Mu Li, AWS Principal Scientist](https://d2l.ai/)
+- [Tianqi Chen, Carnegie Mellon University](https://tqchen.com/)
+- [Andrew Ng](https://www.andrewng.org/)
+- [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li)
