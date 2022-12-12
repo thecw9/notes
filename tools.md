@@ -1,6 +1,8 @@
 - [Research](#research)
 - [Library](#library)
 - [Drawing](#drawing)
+  - [image resource](#image-resource)
+  - [Icon Resource](#icon-resource)
   - [text2img](#text2img)
   - [image template](#image-template)
   - [img2img](#img2img)
@@ -9,6 +11,7 @@
   - [image fix](#image-fix)
   - [image cutout](#image-cutout)
 - [Writing](#writing)
+- [PPT](#PPT)
 
 ## Research
 
@@ -21,11 +24,18 @@
 
 ## Drawing
 
+### image resource
+- [Unsplash](https://unsplash.com/explore) - Explore Free Images, Wallpapers, & Backgrounds.
+- [Pexels](ttps://www.pexels.com/)
+- [Pixabay](ttps://pixabay.com/)
+
+### Icon Resource
+- [Flaticon](ttp://flaticon.com/)
+- [TheNounProject](ttps://thenounproject.com/)
+
 ### text2img
 - [Image Creator](https://www.bing.com/create) - Createimagesfrom words.
 
-### image template
-- [Unsplash](https://unsplash.com/explore) - Explore Free Images, Wallpapers, & Backgrounds.
 
 ### img2img
 
@@ -43,3 +53,10 @@
 - [EasyEssay](https://www.easyessay.ai/writing) - EasyEssay allows you to write your essay 10X faster with artificial intelligence. Best for academic papers, essays and documents.
 - [量子速写](https://xiezuocat.com/#/) - 写作猫是新一代交互式中英文写作辅助平台，集智能文本纠错、改写润色、自动续写、智能配图为一体。
 - [Effidit](https://effidit.qq.com/) - 智能创作助手 Effidit（Efficient and Intelligent Editing） 是由腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验
+
+## PPT
+- 公众号[长理研言]
+- 公众号[进步校园]
+- [Slides Carnival](https://www.slidescarnival.com/)
+- [ColorHunt](https://colorhunt.co/)
+- [ColorSpace](https://mycolor.space/)
