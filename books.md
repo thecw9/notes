@@ -1,1 +1,2 @@
 - [[Machine Learning A Probabilistic Perspective (Kevin P. Murphy)]](./books/Machine-Learning:A-Probabilistic-Perspective.md)
+- [[Pattern Recognition and Machine Learning (Christopher M. Bishop)]](./books/Pattern-Recognition-and-Machine-Learning.md)

@@ -1,0 +1,1 @@
+- parametric learning: predictions for new inputs are based purely on the learned parameter vector w.
