@@ -1,4 +1,6 @@
 [Awesome](https://github.com/sindresorhus/awesome)
 [CS 自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+[Github-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
 [CS-Notes](https://github.com/CyC2018/CS-Notes)
 [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
+[FUTUREPEDIA](https://www.futurepedia.io/)

@@ -1,1 +1,1 @@
-- parametric learning: predictions for new inputs are based purely on the learned parameter vector w.
+- parametric learning: During the learning phase, a set of training data is used either to obtain a point estimate of the parameter vector or to determine a posterior distribution over this vector. The training data is then discarded, and predictions for new inputs are based purely on the learned parameter vector w.
